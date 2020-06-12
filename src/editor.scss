@@ -1,0 +1,18 @@
+.public-DraftEditor-content {
+  min-height: 100px;
+}
+.public-DraftEditorPlaceholder-root, .public-DraftEditor-content {
+  padding: 15px;
+}
+.rich-editor {
+  border: 1px solid #ccc;
+  cursor: text;
+  min-height: 80px;
+  width: 600px;
+}
+.toolbar {
+  margin-bottom: 10
+}
+.active {
+  background-color: red;
+}
